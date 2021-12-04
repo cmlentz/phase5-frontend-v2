@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://cml-phase5-backend.herokuapp.com/'
